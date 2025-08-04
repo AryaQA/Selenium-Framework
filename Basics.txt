@@ -1,0 +1,91 @@
+Java Basics
+===========
+
+1. Java Inter architecture finished
+2. Java Data type--finshed
+3. Java Variables--finished
+4. java keywords--finished
+5. flow controls----> Done
+6. Opps--finished(Super, this, final, access modifier, static)
+7. Exception handling
+8. file handling
+9. Collection API
+10. Arrya
+11. String
+13.Scanner class and wrapper class
+------------------------------------
+
+Machine language  , High Level language
+
+Machine Language(Commands)------->OS----->Perform
+
+
+Hight level------------->Machine Language----------------->OS---> response
+
+(java, C , C++ , C# , Python, R and Node Js, JavaScrip + AI)
+
+---------------------------------------
+
+Coding---Netbean , IDE, Eclipe, intellij and Vscode
+
+IDE--> integrated development environment---Platform---Where we do our code---> basic Arch, temple
+
+Notepad---->complile--->cmd 
+
+Java case sesitive -c , C
+
+Logic instead of costmatic issues spelling mistakes
+
+---------------------------------------------
+
+code--Java---->File(Classfile)---->Bytecode---->Executed----Result
+
+1. Compiler---compile--Is there any issues -- consmatic,--->Javac 
+2. Interpreter---->Execute---Perform---Java
+
+---------------------------------------------
+Java ---Sun system---->Oracle---->'
+Eclipse-------------------------->
+
+1. JDK----- Windows--->25,24 ,23 22 , 21, 17 +
+
+ JRE (JVM + set of lib + tool)  + Compiler, Interpreter
+
+2. Zip file--unzip---> eclips.exe (blue icon)
+-----------------------------------------------
+
+3.Eclipse--->Project (Java Project)----->Package---->(defult package)---->Class file
+
+4. JRE-----> All libera--->Jarfile---packages---Classes---(Prefine)--->Require
+
+5.  SRC---Blank---firt character should be small
+
+6. Keyword--Specific meaning in java ,purpose-- we can change and we can use it for other purpose
+------------------------------------------------
+Code---take memory---Size of file
+
+Different: 123123213, adsdasdasd @%$^%$&$& + _ 
+
+takes different -different memories
+
+------------------------------------
+
+
+heap memory, stack memory, Class area , PC register
+
+
+Final
+super()
+
+this()
+-------
+ 1. invoke current class constructor
+	// 2. invoke current class method
+	// 3. Return the current class object
+	// 4. Pass an argument in the method call
+	// 5. Pass an argument in the constructor call
+--------------------------------------------------------------
+
+
+
+
