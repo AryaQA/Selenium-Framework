@@ -1,0 +1,67 @@
+Array
+-----
+
+1. Variables which can hold multiple values of same type( data type) 
+
+
+2. Types of array:
+
+1. Single dimentions
+2. multidimention
+
+3. It fixed in size we have tell memory how much memory require for holding--> size
+
+4. you can locate an element of array for index ( 0 upto size-1)
+
+Size : 5, index( 0 , 1 , 2, 3, 4 ) 
+                                 0   1    2    3    4
+5. Array has contiguous memory   23| 24 | 25 | 26 | 27
+
+6. all elementes are getting memory one aftere another 
+
+
+Two ways to declare en array in java
+
+
+ Single dimentional
+
+1. int Array[] ; declaration
+
+1. int Array[] = new int[4];--->declaration of arrays + declaration and initalization
+
+
+2. int Array[] = { 12, 13, 14, 15};declaration and initalization
+
+
+multidiementional
+-------------------
+1.int Array[][] ; declaration
+
+2.int Array[][] = new int[3][3];
+                         0               1                2
+3.int Array[][] = { { 12, 13, 14} , { 15 , 16 , 18}, {19 , 20 , 21} }; 3X3
+                       0   1   2       0   1     2     0    1   2
+Array[0][0] = 12
+
+Array[2][1] = 20
+
+12, 13, 14 ---0
+
+15 , 16 , 18 ---1
+
+19 , 20 , 21 ---2
+
+
+3. Jagged array:
+                      0             1             2
+int Array[][] = { { 12, 13} , { 15 , 16 , 18}, {19 , 20 , 21 , 4}
+                    0   1        0   1   2      0    1     2   3
+
+
+
+
+
+                        
+    
+
+                         
